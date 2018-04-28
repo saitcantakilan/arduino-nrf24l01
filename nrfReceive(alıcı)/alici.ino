@@ -1,4 +1,4 @@
-// RX example
+// Alıcı Kodları
 
 #include <SPI.h>
 #include <NRFLite.h>
